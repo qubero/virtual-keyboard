@@ -5,5 +5,10 @@
     "requireConfigFile": false
   },
   "rules": {
+    "no-plusplus": 0
+  },
+  "globals": {
+    "localStorage": true,
+    "document": false
   }
 }
