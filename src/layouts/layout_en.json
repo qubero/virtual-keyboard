@@ -1,0 +1,356 @@
+[
+  [
+    {
+      "key": "`",
+      "altKey": "~",
+      "code": "Backquote",
+      "isFunc": false
+    },
+    {
+      "key": "1",
+      "altKey": "!",
+      "code": "Digit1",
+      "isFunc": false
+    },
+    {
+      "key": "2",
+      "altKey": "@",
+      "code": "Digit2",
+      "isFunc": false
+    },
+    {
+      "key": "3",
+      "altKey": "#",
+      "code": "Digit3",
+      "isFunc": false
+    },
+    {
+      "key": "4",
+      "altKey": "$",
+      "code": "Digit4",
+      "isFunc": false
+    },
+    {
+      "key": "5",
+      "altKey": "%",
+      "code": "Digit5",
+      "isFunc": false
+    },
+    {
+      "key": "6",
+      "altKey": "^",
+      "code": "Digit6",
+      "isFunc": false
+    },
+    {
+      "key": "7",
+      "altKey": "&",
+      "code": "Digit7",
+      "isFunc": false
+    },
+    {
+      "key": "8",
+      "altKey": "*",
+      "code": "Digit8",
+      "isFunc": false
+    },
+    {
+      "key": "9",
+      "altKey": "(",
+      "code": "Digit9",
+      "isFunc": false
+    },
+    {
+      "key": "0",
+      "altKey": ")",
+      "code": "Digit0",
+      "isFunc": false
+    },
+    {
+      "key": "-",
+      "altKey": "_",
+      "code": "Minus",
+      "isFunc": false
+    },
+    {
+      "key": "=",
+      "altKey": "+",
+      "code": "Equal",
+      "isFunc": false
+    },
+    {
+      "key": "Backspace",
+      "altKey": "Backspace",
+      "code": "Backspace",
+      "isFunc": true
+    }
+  ],
+  [
+    {
+      "key": "Tab",
+      "code": "Tab",
+      "isFunc": true,
+      "size": 1.5
+    },
+    {
+      "key": "q",
+      "code": "KeyQ",
+      "isFunc": false
+    },
+    {
+      "key": "w",
+      "code": "KeyW",
+      "isFunc": false
+    },
+    {
+      "key": "e",
+      "code": "KeyE",
+      "isFunc": false
+    },
+    {
+      "key": "r",
+      "code": "KeyR",
+      "isFunc": false
+    },
+    {
+      "key": "t",
+      "code": "KeyT",
+      "isFunc": false
+    },
+    {
+      "key": "y",
+      "code": "KeyY",
+      "isFunc": false
+    },
+    {
+      "key": "u",
+      "code": "KeyU",
+      "isFunc": false
+    },
+    {
+      "key": "i",
+      "code": "KeyI",
+      "isFunc": false
+    },
+    {
+      "key": "o",
+      "code": "KeyO",
+      "isFunc": false
+    },
+    {
+      "key": "p",
+      "code": "KeyP",
+      "isFunc": false
+    },
+    {
+      "key": "[",
+      "altKey": "{",
+      "code": "BracketLeft",
+      "isFunc": false
+    },
+    {
+      "key": "]",
+      "altKey": "}",
+      "code": "BracketRight",
+      "isFunc": false
+    },
+    {
+      "key": "\\",
+      "altKey": "|",
+      "code": "Backslash",
+      "isFunc": false
+    },
+    {
+      "key": "Del",
+      "code": "Delete",
+      "isFunc": true
+    }
+  ],
+  [
+    {
+      "key": "CapsLock",
+      "code": "CapsLock",
+      "isFunc": true,
+      "size": 2.5
+    },
+    {
+      "key": "a",
+      "code": "KeyA",
+      "isFunc": false
+    },
+    {
+      "key": "s",
+      "code": "KeyS",
+      "isFunc": false
+    },
+    {
+      "key": "d",
+      "code": "KeyD",
+      "isFunc": false
+    },
+    {
+      "key": "f",
+      "code": "KeyF",
+      "isFunc": false
+    },
+    {
+      "key": "g",
+      "code": "KeyG",
+      "isFunc": false
+    },
+    {
+      "key": "h",
+      "code": "Keyh",
+      "isFunc": false
+    },
+    {
+      "key": "j",
+      "code": "KeyJ",
+      "isFunc": false
+    },
+    {
+      "key": "k",
+      "code": "KeyK",
+      "isFunc": false
+    },
+    {
+      "key": "l",
+      "code": "KeyL",
+      "isFunc": false
+    },
+    {
+      "key": ";",
+      "altKey": ":",
+      "code": "Semicolon",
+      "isFunc": false
+    },
+    {
+      "key": "'",
+      "altKey": "\"",
+      "code": "Quote",
+      "isFunc": false
+    },
+    {
+      "key": "Enter",
+      "code": "Enter",
+      "isFunc": true,
+      "size": 2.5
+    }
+  ],
+  [
+    {
+      "key": "Shift",
+      "code": "ShiftLeft",
+      "isFunc": true,
+      "size": 3
+    },
+    {
+      "key": "z",
+      "code": "KeyZ",
+      "isFunc": false
+    },
+    {
+      "key": "x",
+      "code": "KeyX",
+      "isFunc": false
+    },
+    {
+      "key": "c",
+      "code": "KeyC",
+      "isFunc": false
+    },
+    {
+      "key": "v",
+      "code": "KeyV",
+      "isFunc": false
+    },
+    {
+      "key": "b",
+      "code": "KeyB",
+      "isFunc": false
+    },
+    {
+      "key": "n",
+      "code": "KeyN",
+      "isFunc": false
+    },
+    {
+      "key": "m",
+      "code": "KeyM",
+      "isFunc": false
+    },
+    {
+      "key": ",",
+      "altKey": "<",
+      "code": "NumpadDecimal",
+      "isFunc": false
+    },
+    {
+      "key": ".",
+      "altKey": ">",
+      "code": "Period",
+      "isFunc": false
+    },
+    {
+      "key": "/",
+      "altKey": "?",
+      "code": "Slash",
+      "isFunc": false
+    },
+    {
+      "key": "▲",
+      "code": "ArrowUp",
+      "isFunc": true
+    },
+    {
+      "key": "Shift",
+      "code": "ShiftRight",
+      "isFunc": true,
+      "size": 2.75
+    }
+  ],
+  [
+    {
+      "key": "Ctrl",
+      "code": "ControlLeft",
+      "isFunc": true,
+      "size": 1.5
+    },
+    {
+      "key": "Alt",
+      "code": "AltLeft",
+      "isFunc": true
+    },
+    {
+      "key": " ",
+      "code": "Space",
+      "isFunc": false,
+      "size": 12
+    },
+    {
+      "key": "Alt",
+      "code": "AltRight",
+      "isFunc": true
+    },{
+      "key": "◄",
+      "code": "ArrowLeft",
+      "isFunc": true
+    },
+    {
+      "key": "▼",
+      "code": "ArrowDown",
+      "isFunc": true
+    },
+    {
+      "key": "►",
+      "code": "ArrowRight",
+      "isFunc": true
+    },
+    {
+      "key": "Ctrl",
+      "code": "ControlRight",
+      "isFunc": true,
+      "size": 1.5
+    }
+  ]
+]
